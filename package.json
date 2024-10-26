@@ -1,8 +1,8 @@
  {
-  "name": "FLASH-MD",
+  "name": "Rasharl®",
   "version": "2.0.0",
   "description": "",
-  "main": "flash.js",
+  "main": "ringo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node flash.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Rasharl ®",
     "whatsapp",
     "whatsapp-bot",
     "franceking1"
   ],
-  "author": "France King",
+  "author": "Ringo Soccia",
   "license": "ISC",
   "engines": {
     "node": "20.x",
