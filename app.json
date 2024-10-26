@@ -20,7 +20,7 @@
     },
     "BLOCK_ALL": {
       "description": "Turn this 'on' if you want the bot to automatically block ANYONE WHO SENDS YOU A MESSAGE. Use 'off' to disable it.",
-      "value": "off",
+      "value": "on",
       "required": false
     },
     "AUTO_VIEW_STATUS": {
@@ -30,17 +30,17 @@
     },
     "AUTO_SAVE_STATUS": {
       "description": "Automatically download and send status updates from your contacts. Type 'yes' to enable or 'no' to disable.",
-      "value": "off",
+      "value": "on",
       "required": false
     },
     "PM_PERMIT": {
       "description": "Restrict the bot's use in private messages. Type 'on' to allow or 'no' to block usage in private messages.",
-      "value": "off",
+      "value": "on",
       "required": false
     },
     "AUTO_REACTION": {
       "description": "Automatically react to received messages. Set to 'on' to enable or 'off' to disable.",
-      "value": "off",
+      "value": "on",
       "required": false
     },
     "ANTI_DELETE": {
